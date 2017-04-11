@@ -1,0 +1,2 @@
+store存放数据
+config存放配置
